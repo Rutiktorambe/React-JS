@@ -1,0 +1,9 @@
+git init
+
+git add Readme.md
+
+git commit -m "first commit"
+
+git branch -M Main
+
+git push -u origin Main
